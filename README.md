@@ -25,19 +25,19 @@ Important files:
 
 ### Main Window
 
-![Main Window](screenshots/main-window.png)
+![Main Window](screenshots/main-window.PNG)
 
 ### Flashcard Mode
 
-![Flashcard Mode](screenshots/flashcard-mode.png)
+![Flashcard Mode](screenshots/flashcard-mode.PNG)
 
 ### Multiple Choice Mode
 
-![MCQ Mode](screenshots/mcq-mode.png)
+![MCQ Mode](screenshots/mcq-mode.PNG)
 
 ### Study Plan
 
-![Study Plan](screenshots/study-plan.png)
+![Study Plan](screenshots/study-plan.PNG)
 
 
 Recommended study order:
