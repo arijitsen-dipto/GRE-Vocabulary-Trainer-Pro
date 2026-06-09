@@ -1,22 +1,44 @@
 # GRE-Vocabulary-Trainer-Pro
+
 Offline GRE vocabulary trainer with flashcards, MCQ, mnemonics, notes, progress tracking, and study plans.
 GRE Vocabulary Trainer - README
 "Please review the GRE_VOCAB_DATABASE_FINAL_CLEAN.xlsx file. If any word definitions, synonyms, antonyms, or example sentences are incorrect, please modify and update them using formal language."
 This is an offline GRE vocabulary study software with flashcards, typing practice, 7-option MCQ, mixed mode, mnemonics, notes, Word Finder, progress tracking, and daily/weekly/monthly study plans.
 
 First-time use:
+
 1. Keep all files in the same folder.
 2. Run First_Time_Setup.bat once.
 3. After setup, open the app using Open_GRE_Vocab_Trainer.bat or the provided launcher file.
 
-Launching 
-Open_GRE_Vocab_Trainer is the main software 
+Launching
+Open_GRE_Vocab_Trainer is the main software
 
 Important files:
-- GRE_VOCAB_DATABASE_FINAL_CLEAN.xlsx = main vocabulary database
-- GRE_USER_DATA.xlsx = user notes, mnemonics, progress, logs, and study plans
-- gre_vocab_trainer_pro_full.py = main code
-- GRE_Vocabulary_Trainer_User_Manual.pdf = detailed user guide
+
+* GRE_VOCAB_DATABASE_FINAL_CLEAN.xlsx = main vocabulary database
+* GRE_USER_DATA.xlsx = user notes, mnemonics, progress, logs, and study plans
+* gre_vocab_trainer_pro_full.py = main code
+* GRE_Vocabulary_Trainer_User_Manual.pdf = detailed user guide
+
+## Screenshots
+
+### Main Window
+
+![Main Window](screenshots/main-window.png)
+
+### Flashcard Mode
+
+![Flashcard Mode](screenshots/flashcard-mode.png)
+
+### Multiple Choice Mode
+
+![MCQ Mode](screenshots/mcq-mode.png)
+
+### Study Plan
+
+![Study Plan](screenshots/study-plan.png)
+
 
 Recommended study order:
 Start with the grouped core GRE word list first. Then use high-frequency lists, top frequent words, vocabulary-builder lists, and large classic word lists for wider review.
