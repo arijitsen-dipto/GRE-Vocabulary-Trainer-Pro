@@ -16,7 +16,7 @@ Important files:
 - GRE_VOCAB_DATABASE_FINAL_CLEAN.xlsx = main vocabulary database
 - GRE_USER_DATA.xlsx = user notes, mnemonics, progress, logs, and study plans
 - gre_vocab_trainer_pro_full.py = main code
-- GRE_Vocabulary_Trainer_User_Manual.pdf = detailed user guide
+- GRE_Vocabulary_Trainer_Full_Guided_Manual.pdf = detailed user guide
 
 Recommended study order:
 Start with the grouped core GRE word list first. Then use high-frequency lists, top frequent words, vocabulary-builder lists, and large classic word lists for wider review.
