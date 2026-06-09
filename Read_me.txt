@@ -1,7 +1,7 @@
 # GRE-Vocabulary-Trainer-Pro
 Offline GRE vocabulary trainer with flashcards, MCQ, mnemonics, notes, progress tracking, and study plans.
 GRE Vocabulary Trainer - README
-
+"Please review the GRE_VOCAB_DATABASE_FINAL_CLEAN.xlsx file. If any word definitions, synonyms, antonyms, or example sentences are incorrect, please modify and update them using formal language."
 This is an offline GRE vocabulary study software with flashcards, typing practice, 7-option MCQ, mixed mode, mnemonics, notes, Word Finder, progress tracking, and daily/weekly/monthly study plans.
 
 First-time use:
